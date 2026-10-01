@@ -44,6 +44,7 @@ The available EV charging data covers individual charging sessions recorded betw
 
 
 ### Monthly Performance Section
+Borne2Win activity increase steadily from April to July, with revenue growing every month (+10%, +8,9%, +6,9% MoM). Gradual increase consistent with an early ramp-up of a newly deployed charging network in the city. Pandemic restrictions may also have influenced activity levels.
 
 ### Regional Performance Section 
 
