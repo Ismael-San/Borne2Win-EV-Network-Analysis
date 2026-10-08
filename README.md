@@ -52,7 +52,21 @@ From September to December 2021, revenue growth accelerated sharply, with an 85,
 
 ### Regional Performance Section 
 
+
 ### Product Performance Section
+**BOOST - FLEX EVSE**
+FLEX EVSE drive network scale, generating the largest absolute volumes of revenue, energy delivered and charging sessions, supported by their much larger observed deployment base.
+
+Despite their smaller deployment base, BOOST EVSE generate substantially higher observed activity per EVSE across revenue, kWh and charging sessions.
+
+**Cable Performance**
+BOOST — T2 dominance over HPC cable
+T2 remains the leading revenue contributor within BOOST, accounting for an average 52% of monthly BOOST revenue despite the presence of dedicated HPC configurations
+
+BOOST - EF low usage
+
+FLEX — T2 level and T2S acceleration 
+T2S became a major contributor to FLEX activity after its late-period deployment, with revenue increasing 5.7× from September to December, primarily driven by higher charging volume.
 
 ### Operational Performance Section
 
