@@ -73,7 +73,7 @@ BOOST — T2 dominance over HPC cable
 
 Despite BOOST supporting dedicated high-power charging connectors such as Combo CCS and CHAdeMO, T2 remained its leading revenue contributor, accounting for approximately 53% of total BOOST revenue over the period. This highlights T2's central role in BOOST's revenue performance, despite the availability of dedicated high-power charging options.
 
-While EF initially drove FLEX revenue, T2S emerged as the leading contributor from October onward. With revenue increasing 5.7× from September to December reaching approximately €320K in December. This highlights T2S's growing importance to FLEX's revenue performance, while the continued growth of T2 and EF points to broader expansion across FLEX cable types.
+While EF initially drove FLEX revenue, followed by T2, T2S showed dominance contributing  after its remarkable increase from September onward, overtaking the other cable types in October and reaching approximately €320K (61% of total revenue) in December . This trend highlights T2S's future growth potential, potentially reflecting the deployment of additional T2S-equipped EVSE alongside increasing consumer adoption and awareness of Borne2Win CPO.
 
 ### Operational Performance Section
 
