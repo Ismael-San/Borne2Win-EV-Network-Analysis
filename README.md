@@ -62,9 +62,15 @@ The 10th district ranks last in both overall activity (revenue, sessions and kWh
 
 ### Product Performance Section
 **BOOST - FLEX EVSE**
-FLEX EVSE drive network scale, generating the largest absolute volumes of revenue, energy delivered and charging sessions, supported by their much larger observed deployment base.
+(FLEX EVSE drive network scale, generating the largest absolute volumes of revenue, energy delivered and charging sessions, supported by their much larger observed deployment base.
 
-Despite their smaller deployment base, BOOST EVSE generate substantially higher observed activity per EVSE across revenue, kWh and charging sessions.
+Despite their smaller deployment base, BOOST EVSE generate substantially higher observed activity per EVSE across revenue, kWh and charging sessions.)
+
+BOOST EVSE dominated revenue during the first half of the period, highlighting their importance to the network's early post-launch performance.
+
+FLEX EVSE progressively overtook BOOST, becoming the largest revenue contributor from September and reaching 70% of combined EVSE revenue in December, indicating a significant shift in the network's product mix.
+
+MOTO EVSE emerged from June onward and showed sustained growth through December, highlighting an emerging product segment with increasing network activity.
 
 **Cable Performance**
 BOOST — T2 dominance over HPC cable
