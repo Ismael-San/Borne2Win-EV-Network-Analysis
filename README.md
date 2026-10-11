@@ -114,12 +114,14 @@ In contrast, T2 maintained consistently stronger reliability, with valid session
 Further investigation is needed to determine whether CHAdeMO’s declining performance reflects operational issues, user or vehicle-related factors, or changes in demand.
 
 <p align="center">
-  <img width="1029" height="235" alt="Screenshot 2026-10-11 at 19 29 48" src="https://github.com/user-attachments/assets/f526e67d-8097-4d97-904d-108eeb02d8a1" />
+  <img width="1024" height="235" alt="Screenshot 2026-10-11 at 19 39 04" src="https://github.com/user-attachments/assets/2591f919-6ca1-48bd-b405-f5eb59704989" />
 
 </p>
 
 Regarding FLEX sessions, reliability remained relatively stable overall, although T2 and EF experienced a notable decline in November. Their valid session rates fell from 78.51% and 79.21% in October to 64.72% and 68.50%, respectively. 
 This deterioration calls for an operational review with the Operations team to identify potential contributing factors.. In contrast, T2S maintained an overall upward trend in its valid session rate, indicating improving reliability over time.
+
+
 
 ## Recommandations
 
