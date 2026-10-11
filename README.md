@@ -73,6 +73,7 @@ From a revenue intensity perspective, BOOST consistently outperformed FLEX and M
 MOTO also gained traction from June onward, with charging sessions increasing steadily through December, although its overall contribution remained modest compared with BOOST and FLEX with a revenue contribution of 0,6%. Its later deployment may partly explain its lower contribution to total EVSE revenue over the period.
 
 **Cable Performance**
+
 T2 accounted for 53% of total BOOST revenue, while Combo CCS and CHAdeMO combined contributed 33%. This underscores T2’s leading role in both usage and revenue generation, despite BOOST EVSE being equipped with dedicated high-power connectors designed for high-power charging sessions, such as Combo CCS and CHAdeMO. 
 
 - T2 primary driver of BOOST performance despite the availability of connectors specifically designed for high-power charging (visualization title) - 
