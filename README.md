@@ -76,6 +76,8 @@ From a revenue intensity perspective, BOOST consistently outperformed FLEX and M
 
 MOTO also gained traction from June onward, with charging sessions increasing steadily through December, although its overall contribution remained modest compared with BOOST and FLEX with a revenue contribution of 0,6%. Its later deployment may partly explain its lower contribution to total EVSE revenue over the period.
 
+
+
 **Cable Performance**
 
 BOOST EVSE 
