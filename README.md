@@ -171,8 +171,13 @@ Concerning underperforming districts: Analyze pricing, session duration, EVSE av
 
 **Preserve and leverage the strong performance of T2 connectors while assessing the role of high-power infrastructure in the network portfolio.**
 
+Assess opportunities to scale T2S-equipped EVSE following its rapid revenue growth within FLEX by identifying most utilized ones and leveraged on them with demand-increasing marketing and commercial measures (campaigns ads).
+
 Evaluate future activity results to decide whether future deployment should prioritize T2 capacity, high-power connectors, or a balanced mix based on demand, revenue and reliability. 
 
 Prioritize an operational review of underperforming high-power connector types, particularly CHAdeMO, to identify potential reliability issues and their impact on network activity.
+
+**Customers Operations**
+
 
 ## Assumptions & Caveats
