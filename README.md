@@ -101,6 +101,11 @@ Deployed in June, T2S rapidly gained prominence, shifting FLEX’s revenue mix a
 
 Further investigation into session volumes, consumption and EVSE deployment is needed to determine whether this growth stems from increased T2S usage, broader network activity or an expanded deployment base.
 
+<p align="center">
+<img width="904" height="548" alt="Screenshot 2026-10-11 at 20 15 34" src="https://github.com/user-attachments/assets/5a825cd2-d9c7-4aba-a76d-9628903a218f" />
+
+</p>
+
 ### Operational Performance Section
 
 At the regional level, session reliability remained broadly stable over time, with a network-wide valid session rate of approximately 80%. However, the 5th district recorded a sharp decline in reliability, with valid session rates falling to 30% in November and 46% in December. An operational review should determine whether these low rates are concentrated around a single CPO, address or cable type, or reflect a broader issue affecting multiple charging points across the district.
