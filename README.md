@@ -74,7 +74,8 @@ MOTO also gained traction from June onward, with charging sessions increasing st
 
 **Cable Performance**
 
-T2 accounted for 53% of total BOOST revenue, while Combo CCS and CHAdeMO combined contributed 33%. This underscores T2’s leading role in both usage and revenue generation, despite BOOST EVSE being equipped with dedicated high-power connectors designed for high-power charging sessions, such as Combo CCS and CHAdeMO. 
+T2 accounted for 53% of total BOOST revenue, while Combo CCS and CHAdeMO combined contributed 33%. 
+This underscores T2’s leading role in both usage and revenue generation, despite BOOST EVSE being equipped with dedicated high-power connectors designed for high-power charging sessions, such as Combo CCS and CHAdeMO. 
 
 - T2 primary driver of BOOST performance despite the availability of connectors specifically designed for high-power charging (visualization title) - 
 
