@@ -85,8 +85,6 @@ EF generated comparatively modest revenue throughout the period, highlighting a 
 
 FLEX EVSE
 
-While EF initially drove FLEX revenue, followed by T2, T2S showed dominance contributing  after its remarkable increase from September onward, overtaking the other cable types in October and reaching approximately €320K (61% of total revenue) in December . This trend highlights T2S's future growth potential, potentially reflecting the deployment of additional T2S-equipped EVSE alongside increasing consumer adoption and awareness of Borne2Win CPO.
-
 T2S revenue surged from September onward, overtaking EF and T2 to become FLEX’s leading revenue contributor in October and reaching approximately €320K in December, representing 61% of total FLEX revenue. 
 
 Initially led by EF and then T2, FLEX’s revenue mix shifted decisively toward T2S, highlighting a potential growth opportunity that warrants further investigation. 
