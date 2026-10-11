@@ -70,7 +70,7 @@ Meanwhile, FLEX progressively narrowed the gap between May and August before rec
 
 From a revenue intensity perspective, BOOST consistently outperformed FLEX and MOTO, reaching €1,320 per observed EVSE in December, compared with €318 for FLEX and €48 for MOTO. This demonstrates substantially higher revenue generation per observed unit for BOOST, potentially reflecting differences in cable mix, charging configurations and session characteristics.
 
-MOTO also gained traction from June onward, with charging sessions increasing steadily through December, although its overall contribution remained modest compared with BOOST and FLEX.
+MOTO also gained traction from June onward, with charging sessions increasing steadily through December, although its overall contribution remained modest compared with BOOST and FLEX with a revenue contribution of 0,6%.
 
 **Cable Performance**
 BOOST — T2 dominance over HPC cable
