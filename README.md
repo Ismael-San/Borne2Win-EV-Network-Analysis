@@ -50,11 +50,7 @@ Activity declined between July and August 21, with revenue decreasing by 14.5% M
 
 From September to December 2021, revenue growth accelerated sharply, with an 85,3% increase in September - followed by continued but more moderate growth in the following months ; +35.5% in October, +45.9% in November and +26.3% in December. This may reflect increasing network adoption, greater awareness of the service, and the easing of pandemic-related restrictions, while the progressive moderation in monthly growth suggests a transition toward a more established level of demand.
 
-<p align="center">
-<img width="1262" height="812" alt="Screenshot 2026-10-11 at 21 17 11" src="https://github.com/user-attachments/assets/6cff383d-3410-4045-bd00-cc00b896c1c2" />
 
-  
-</p>
 
 
 ### Regional Performance Section 
@@ -86,7 +82,11 @@ From a revenue intensity perspective, BOOST consistently outperformed FLEX and M
 
 MOTO also gained traction from June onward, with charging sessions increasing steadily through December, although its overall contribution remained modest compared with BOOST and FLEX with a revenue contribution of 0,6%. Its later deployment may partly explain its lower contribution to total EVSE revenue over the period.
 
+<p align="center">
+<img width="1262" height="812" alt="Screenshot 2026-10-11 at 21 17 11" src="https://github.com/user-attachments/assets/6cff383d-3410-4045-bd00-cc00b896c1c2" />
 
+  
+</p>
 
 
 
@@ -102,7 +102,8 @@ T3 remained a minor BOOST contributor, despite a sharp increase from €10.5K in
 EF generated comparatively modest revenue throughout the period, highlighting a potential area for further investigation into its activity levels and revenue contribution.
 
 <p align="center">
-<img width="824" height="553" alt="Screenshot 2026-10-11 at 21 03 59" src="https://github.com/user-attachments/assets/15891121-abbc-4ad5-abee-34cfd4f56ccf" />
+<img width="1278" height="810" alt="Screenshot 2026-10-11 at 21 19 36" src="https://github.com/user-attachments/assets/e9dabfc1-1b01-4692-9554-22716d154562" />
+
 
 </p>
 
