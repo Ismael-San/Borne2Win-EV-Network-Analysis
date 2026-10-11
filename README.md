@@ -78,6 +78,8 @@ MOTO also gained traction from June onward, with charging sessions increasing st
 
 
 
+
+
 **Cable Performance**
 
 BOOST EVSE 
