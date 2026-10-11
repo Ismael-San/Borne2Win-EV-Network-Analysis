@@ -78,7 +78,6 @@ BOOST EVSE
 
 T2 accounted for 53% of total BOOST revenue, while Combo CCS and CHAdeMO combined contributed 33%. 
 This underscores T2’s leading role in both usage and revenue generation, despite BOOST EVSE being equipped with dedicated high-power connectors designed for high-power charging sessions, such as Combo CCS and CHAdeMO. 
-(T2 primary driver of BOOST performance despite the availability of connectors specifically designed for high-power charging (visualization title))
 
 T3 remained a minor BOOST contributor, despite a sharp increase from €10.5K in October to €44.8K in November, followed by a decline to €13.4K in December. This unusual spike warrants further investigation to determine whether it reflects increased charging activity, changes in session characteristics, or a potential data issue.
 
