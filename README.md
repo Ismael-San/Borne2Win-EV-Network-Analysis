@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-
-
-
-
-
-
-
-
+* [Overview](#project-overview)
+* [Project Background](#project-background)
+* [Executive Summary](#executive-summary)
+* [Key Insights](#key-insights)
+   * [Monthly Performance Section](#monthly-performance-section)
+   * [Regional Performance Section](regional-performance-section)
+   * [Product Performance Section](#product-performance-section)
+* [Recommendations](#recommendations)
 
 
 ## Project Overview
@@ -177,7 +177,9 @@ Evaluate future activity results to decide whether future deployment should prio
 
 Prioritize an operational review of underperforming high-power connector types, particularly CHAdeMO, to identify potential reliability issues and their impact on network activity.
 
-**Customers Operations**
+**Customers/Marketing Operations**
+Examine how Borne2Win subscribers use our charging points, including usage frequency, session duration and charging patterns, to identify opportunities to improve engagement and retention.
 
+Identify peak usage periods and align targeted advertising campaigns with periods of high demand to maximize visibility and attract new customers.
 
-## Assumptions & Caveats
+Establish partnerships with additional e-Mobility Service Providers (eMSPs) to improve charging network interoperability and enable more EV drivers to access Borne2Win charging points.
