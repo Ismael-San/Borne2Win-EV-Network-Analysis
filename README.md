@@ -178,6 +178,7 @@ Evaluate future activity results to decide whether future deployment should prio
 Prioritize an operational review of underperforming high-power connector types, particularly CHAdeMO, to identify potential reliability issues and their impact on network activity.
 
 **Customers/Marketing Operations**
+
 Examine how Borne2Win subscribers use our charging points, including usage frequency, session duration and charging patterns, to identify opportunities to improve engagement and retention.
 
 Identify peak usage periods and align targeted advertising campaigns with periods of high demand to maximize visibility and attract new customers.
