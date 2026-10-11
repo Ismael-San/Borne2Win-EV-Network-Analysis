@@ -163,4 +163,16 @@ Track operational and commercial performance beyond the study period to distingu
 
 2nd district: Analyze peak-hour demand, session duration, activity per observed EVSE and invalid session rates to identify potential capacity constraints. Use these findings to prioritize new charging points or preventive maintenance.
 
+**Conduct product and pricing research for underperforming districts**
+
+Concerning underperforming districts: Analyze pricing, session duration, EVSE availability, local demand and charging behavior to identify the factors behind low activity levels. Use these findings to determine whether network reallocation or targeted commercial measures are warranted.
+
+**Product Operations**
+
+**Preserve and leverage the strong performance of T2 connectors while assessing the role of high-power infrastructure in the network portfolio.**
+
+Evaluate future activity results to decide whether future deployment should prioritize T2 capacity, high-power connectors, or a balanced mix based on demand, revenue and reliability. 
+
+Prioritize an operational review of underperforming high-power connector types, particularly CHAdeMO, to identify potential reliability issues and their impact on network activity.
+
 ## Assumptions & Caveats
