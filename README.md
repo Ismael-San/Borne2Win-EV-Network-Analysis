@@ -93,6 +93,11 @@ T3 remained a minor BOOST contributor, despite a sharp increase from €10.5K in
 
 EF generated comparatively modest revenue throughout the period, highlighting a potential area for further investigation into its activity levels and revenue contribution.
 
+<p align="center">
+<img width="824" height="553" alt="Screenshot 2026-10-11 at 21 03 59" src="https://github.com/user-attachments/assets/15891121-abbc-4ad5-abee-34cfd4f56ccf" />
+
+</p>
+
 FLEX EVSE
 
 T2S revenue surged from September onward, overtaking EF and T2 to become FLEX’s leading revenue contributor in October and reaching approximately €320K in December, representing 61% of total FLEX revenue. 
