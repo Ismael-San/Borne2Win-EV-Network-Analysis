@@ -62,6 +62,7 @@ The 10th district ranked last not only as activity contributor in activity inten
 
 <p align="center">
 <img width="1048" height="542" alt="Screenshot 2026-10-11 at 19 23 48" src="https://github.com/user-attachments/assets/07e03d88-2f7f-4736-aea0-3ef90a28a3fd" />
+  
 </p>
 
 
