@@ -17,7 +17,7 @@ The goal of this project is to provide leadership with data-driven insights and 
 
 
 ## Project Background
-Borne2Win is an EV charging network company providing public charging infrastructure. The company launched its network in Paris in March 2021, with the ambition of becoming a leading EV charging network in the city before expanding its footprint across France and other European markets.
+Borne2Win is a charging points operator providing public charging infrastructure. The company launched its network in Paris in March 2021, with the ambition of becoming the leading EV charging network in the city before expanding its footprint across France and other European markets.
 
 As a newly launched network, Borne2Win needs to understand how effectively its charging infrastructure is capturing demand, generating revenue, and delivering a reliable charging experience. The first several months of operations therefore provide an opportunity to assess network performance, identify performance gaps, and determine where operational or commercial improvements may be required to support sustainable growth.
 
