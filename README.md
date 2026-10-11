@@ -52,7 +52,7 @@ From September to December 2021, revenue growth accelerated sharply, with an 85,
 
 ### Regional Performance Section 
 
-The 16th district demonstrated sustained revenue dominance, contributing 12–16% (Top 1 contributor) of monthly network revenue throughout the period. This consistent performance suggests strong observed demand and makes the district a potential priority for future network development.
+The 16th district consistently ranked as the network’s top revenue contributor, accounting for 12–16% of monthly network revenue throughout the period.This consistent performance suggests strong observed demand and makes the district a potential priority for future network development.
 
 Despite its relatively small EVSE base, the 2nd district ranked among the top districts across all three activity-intensity metrics (Revenue/Observed EVSE: €2,468, Top 1; Consumption/Observed EVSE: 2,028 kWh, Top 2; Sessions/Observed EVSE: 190, Top 2), indicating particularly high activity per observed EVSE. Closer monitoring would help assess potential capacity constraints and identify opportunities to leverage this strong performance through targeted network development.
 
