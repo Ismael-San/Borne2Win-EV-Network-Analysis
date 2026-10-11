@@ -61,7 +61,9 @@ The 10th district ranks last in both overall activity (revenue, sessions and kWh
 
 
 ### Product Performance Section
-**BOOST - FLEX EVSE** /
+
+**BOOST - FLEX EVSE** 
+
 BOOST led Borne2Win’s early revenue performance, generating approximately €650K and accounting for around 74% of total revenue during the first half of the period, despite a gradual decline in monthly revenue from May through August. 
 
 FLEX, in contrast, increased steadily over the period, progressively narrowing the gap before overtaking BOOST from September onward and reaching 70% of combined EVSE revenue in December, reflecting its much larger deployment base.
