@@ -64,6 +64,7 @@ The 10th district ranked last not only as activity contributor in activity inten
 <img width="762" height="456" alt="Screenshot 2026-10-11 at 12 52 14" src="https://github.com/user-attachments/assets/94177021-40f0-4534-a7c1-1aeef062e083" /> </p>
 
 
+
 ### Product Performance Section
 
 **BOOST - FLEX EVSE** 
