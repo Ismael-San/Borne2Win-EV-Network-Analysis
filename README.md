@@ -64,13 +64,13 @@ The 10th district ranks last in both overall activity (revenue, sessions and kWh
 
 **BOOST - FLEX EVSE** 
 
-Despite its strong initial lead during the launch period, with BOOST generating approximately €650K and accounting for around 74% of total revenue in the first half of the period, BOOST EVSE revenue gradually declined through August. 
+In terms of volume metrics, BOOST held a strong initial lead during the launch period, generating approximately €650K and accounting for around 74% of total revenue in the first half of the period. However, its monthly revenue gradually declined through August.
 
 Meanwhile, FLEX progressively narrowed the gap between May and August before recording a remarkable 680% revenue increase from August (€67K) to December (€521K), overtaking BOOST from September onward and ultimately reaching 70% of combined EVSE revenue in December.
 
-Despite FLEX’s revenue dominance, BOOST consistently generated higher revenue per observed EVSE, reaching €1,320 in December compared with €318 for FLEX and €48 for MOTO. This highlights BOOST’s higher revenue intensity, potentially linked to its broader cable mix and charging configurations.
+From a revenue intensity perspective, BOOST consistently outperformed FLEX and MOTO, reaching €1,320 per observed EVSE in December, compared with €318 for FLEX and €48 for MOTO. This points to substantially higher revenue generation per observed unit for BOOST, potentially reflecting differences in cable mix, charging configurations and session characteristics.
 
-Meanwhile, MOTO emerged as a third contributor from June onward, with charging sessions increasing steadily through December, although its overall contribution remained comparatively small.
+MOTO also gained traction from June onward, with charging sessions increasing steadily through December, although its contribution remained modest compared with BOOST and FLEX.
 
 **Cable Performance**
 BOOST — T2 dominance over HPC cable
