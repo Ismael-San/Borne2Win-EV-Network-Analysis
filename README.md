@@ -101,6 +101,14 @@ Further investigation into session volumes, consumption and EVSE deployment is n
 
 ### Operational Performance Section
 
+BOOST - EVSE 
+For BOOST EVSE, CHAdeMO’s valid session rate declined notably from August onward, dropping to dropping to 65.56% in September.
+In contrast, T2 maintained consistently stronger reliability, with valid session rates ranging from 87.88% to 89.93% between March and August, before improving further to 91.94% in December. 
+Further investigation is needed to determine whether CHAdeMO’s declining performance reflects operational issues, user or vehicle-related factors, or changes in demand.
+
+FLEX - EVSE
+Regarding FLEX sessions, reliability remained relatively stable overall, although T2 and EF experienced a notable decline in November. Their valid session rates fell from 78.51% and 79.21% in October to 64.72% and 68.50%, respectively. 
+This deterioration calls for an operational review with the Operations team to identify potential contributing factors.. In contrast, T2S maintained an overall upward trend in its valid session rate, indicating improving reliability over time.
 
 ## Recommandations
 
