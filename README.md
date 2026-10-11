@@ -106,6 +106,11 @@ Further investigation into session volumes, consumption and EVSE deployment is n
 
 </p>
 
+<p align="center">
+<img width="894" height="107" alt="Screenshot 2026-10-11 at 20 19 08" src="https://github.com/user-attachments/assets/a75c97a1-2e65-40cb-94a9-dc66d86d808a" />
+
+</p>
+
 ### Operational Performance Section
 
 At the regional level, session reliability remained broadly stable over time, with a network-wide valid session rate of approximately 80%. However, the 5th district recorded a sharp decline in reliability, with valid session rates falling to 30% in November and 46% in December. An operational review should determine whether these low rates are concentrated around a single CPO, address or cable type, or reflect a broader issue affecting multiple charging points across the district.
