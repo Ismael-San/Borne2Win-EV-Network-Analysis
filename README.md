@@ -51,19 +51,12 @@ Activity declined between July and August 21, with revenue decreasing by 14.5% M
 From September to December 2021, revenue growth accelerated sharply, with an 85,3% increase in September - followed by continued but more moderate growth in the following months ; +35.5% in October, +45.9% in November and +26.3% in December. This may reflect increasing network adoption, greater awareness of the service, and the easing of pandemic-related restrictions, while the progressive moderation in monthly growth suggests a transition toward a more established level of demand.
 
 ### Regional Performance Section 
-16th District — Sustained Revenue Leadership
 
 The 16th district demonstrated sustained revenue dominance, contributing 12–16% of monthly network revenue throughout the period. This consistent performance suggests strong observed demand and makes the district a potential priority for future network development.
 
-2nd District — High Activity Intensity
-
 Despite its relatively small EVSE base, the 2nd district ranked among the top districts for Revenue/EVSE, kWh/EVSE and Sessions/EVSE, indicating particularly high observed activity intensity. Closer monitoring would help assess potential capacity constraints and identify opportunities to leverage this strong performance through targeted network development.
 
-North-East Districts — Energy-Intensive Charging Activity
-
 The North-East districts (10th, 18th, 19th and 20th) showed lower revenue intensity but more energy-intensive charging sessions. This suggests that their observed network activity may be driven more by energy delivered per session than by high revenue generation per EVSE. Further investigation is needed to understand the drivers of this pattern and assess whether pricing, session duration or local charging demand could explain the difference.
-
-10th District — Lowest Overall Performance
 
 The 10th district ranked last in both overall activity (revenue, sessions and kWh) and activity intensity (Revenue/EVSE, Sessions/EVSE and kWh/EVSE). The team should monitor this pattern over time and investigate potential causes to determine whether targeted operational or commercial measures are warranted.
 
