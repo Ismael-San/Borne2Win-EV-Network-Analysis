@@ -125,6 +125,7 @@ This deterioration calls for an operational review with the Operations team to i
 <img width="1025" height="186" alt="Screenshot 2026-10-11 at 19 43 06" src="https://github.com/user-attachments/assets/2d63d632-02a1-4e98-924e-2a9ee434a45d" />
 
 </p>
+
 ## Recommandations
 
 
