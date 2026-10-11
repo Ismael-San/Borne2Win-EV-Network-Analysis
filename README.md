@@ -61,6 +61,9 @@ North-East districts (both 18th, 19th and 20th) showed relatively low activity v
 The 10th district ranked last not only as activity contributor in activity intensity metrics; 754€, 58 Sessions and 702kWh per Observed EVSE. But also one of the latest in revenue, kWh and sessions count metrics (counting between 1,6%-2% contribution only). Both Finance and Product team should monitor these results over time and investigate potential causes to determine whether targeted operational or commercial measures are warranted.
 
 
+<img width="762" height="456" alt="Screenshot 2026-10-11 at 12 52 14" src="https://github.com/user-attachments/assets/94177021-40f0-4534-a7c1-1aeef062e083" />
+
+
 ### Product Performance Section
 
 **BOOST - FLEX EVSE** 
