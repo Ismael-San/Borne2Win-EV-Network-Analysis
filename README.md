@@ -154,13 +154,13 @@ This deterioration calls for an operational review with the Operations team to i
 ## Recommandations
 
 **Financial/Sales Operations**
+
 Track operational and commercial performance beyond the study period to distinguish structural performance trends from seasonal effects, particularly the potential impact of reduced summer activity and the September return to normal business activity.
 
-Assess demand and operational capacity before expanding infrastructure in high-performing districts.
+**Assess demand and operational capacity before expanding infrastructure in high-performing districts.**
 
-16th district: Identify the main user segments driving charging activity and determine whether they are existing Borne2Win subscribers. If non-subscribers represent a significant share of demand, collaborate with the Marketing team to develop targeted campaigns that encourage network membership and repeat usage.
+16th district: Identify key user segments, subscription status (Borne2Win subscribers or not), session frequency and charging patterns. Collaborate with Marketing to convert non-subscribers into Borne2Win members and encourage repeat usage.
 
-2nd district: Monitor EVSE utilization and demand patterns to identify potential capacity constraints and anticipate reliability issues that could increase invalid session rates. Use these findings to determine whether additional charging capacity or preventive maintenance is required.
-
+2nd district: Analyze peak-hour demand, session duration, activity per observed EVSE and invalid session rates to identify potential capacity constraints. Use these findings to prioritize new charging points or preventive maintenance.
 
 ## Assumptions & Caveats
