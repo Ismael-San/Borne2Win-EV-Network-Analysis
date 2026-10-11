@@ -54,7 +54,7 @@ From September to December 2021, revenue growth accelerated sharply, with an 85,
 
 The 16th district demonstrated sustained revenue dominance, contributing 12–16% of monthly network revenue throughout the period. This consistent performance suggests strong observed demand and makes the district a potential priority for future network development.
 
-Despite its relatively small EVSE base, the 2nd district ranked among the top districts KPI per EVSE (Top 1 - 2468€ Revenue/Observed EVSE, Top 2 - 2 028 kWh/EVSE and Top 2 - 190 Sessions/Observed EVSE), indicating particularly high observed activity intensity. Closer monitoring would help assess potential capacity constraints and identify opportunities to leverage this strong performance through targeted network development.
+Despite its relatively small EVSE base, the 2nd district ranked among the top districts across all three activity-intensity metrics (Revenue/Observed EVSE: €2,468, Top 1; Consumption/Observed EVSE: 2,028 kWh, Top 2; Sessions/Observed EVSE: 190, Top 2), indicating particularly high activity per observed EVSE. Closer monitoring would help assess potential capacity constraints and identify opportunities to leverage this strong performance through targeted network development.
 
 The North-East districts (both 18th, 19th and 20th) showed relatively low activity volumes despite their substantial installed EVSE base, while recording higher energy consumption per session. 20th district as Top 1 with 13,1 kWh/Session, followed by 18th and 19th districts, with 12,8kWh and 12,6kWh respectively. This pattern merits further investigation to determine whether pricing, session duration or local charging demand could explain the difference.
 
