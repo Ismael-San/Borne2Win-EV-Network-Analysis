@@ -58,7 +58,7 @@ Despite its relatively small EVSE base, the 2nd district ranked among the top di
 
 The North-East districts (18th, 19th and 20th) showed relatively low activity volumes despite their substantial installed EVSE base, while recording higher energy consumption per session. 20th district as Top 1 with 13,1 kWH/Session, followed by 18th and 19th districts, with 12,8kWh/Session and 12,6kWh/Session respectively. This pattern merits further investigation to determine whether pricing, session duration or local charging demand could explain the difference.
 
-The 10th district ranked last as activity contributor in all metrics (revenue, sessions and kWh) and one of the latest in activity intensity (Revenue/EVSE, Sessions/EVSE and kWh/EVSE). Both Finance and Product team should monitor these results over time and investigate potential causes to determine whether targeted operational or commercial measures are warranted.
+The 10th district ranked last not only as activity contributor in activity intensity metrics; 754€, 58 Sessions and 702kWh per Observed EVSE. But also one of the latest in revenue, kWh and sessions count metrics (counting between 1,6%-2% contribution only). Both Finance and Product team should monitor these results over time and investigate potential causes to determine whether targeted operational or commercial measures are warranted.
 
 
 ### Product Performance Section
