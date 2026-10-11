@@ -103,6 +103,10 @@ Further investigation into session volumes, consumption and EVSE deployment is n
 
 At the regional level, session reliability remained broadly stable over time, with a network-wide valid session rate of approximately 80%. However, the 5th district recorded a sharp decline in reliability, with valid session rates falling to 30% in November and 46% in December. An operational review should determine whether these low rates are concentrated around a single CPO, address or cable type, or reflect a broader issue affecting multiple charging points across the district.
 
+<p align="center">
+<img width="1014" height="505" alt="Screenshot 2026-10-11 at 17 12 32" src="https://github.com/user-attachments/assets/e210d064-b39a-4093-98e4-37a5c05b877c" /> </p>
+
+
 For BOOST sessions, CHAdeMO’s valid session rate declined notably from August onward, dropping to dropping to 65.56% in September.
 In contrast, T2 maintained consistently stronger reliability, with valid session rates ranging from 87.88% to 89.93% between March and August, before improving further to 91.94% in December. 
 Further investigation is needed to determine whether CHAdeMO’s declining performance reflects operational issues, user or vehicle-related factors, or changes in demand.
