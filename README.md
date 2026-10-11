@@ -77,7 +77,11 @@ MOTO also gained traction from June onward, with charging sessions increasing st
 T2 accounted for 53% of total BOOST revenue, while Combo CCS and CHAdeMO combined contributed 33%. 
 This underscores T2’s leading role in both usage and revenue generation, despite BOOST EVSE being equipped with dedicated high-power connectors designed for high-power charging sessions, such as Combo CCS and CHAdeMO. 
 
-- T2 primary driver of BOOST performance despite the availability of connectors specifically designed for high-power charging (visualization title) - 
+- T2 primary driver of BOOST performance despite the availability of connectors specifically designed for high-power charging (visualization title) -
+
+T3 remained a minor BOOST contributor, despite a sharp increase from €10.5K in October to €44.8K in November, followed by a decline to €13.4K in December. This unusual spike warrants further investigation to determine whether it reflects increased charging activity, changes in session characteristics, or a potential data issue.
+
+EF generated comparatively modest revenue throughout the period, highlighting a potential area for further investigation into its activity levels and revenue contribution.
 
 While EF initially drove FLEX revenue, followed by T2, T2S showed dominance contributing  after its remarkable increase from September onward, overtaking the other cable types in October and reaching approximately €320K (61% of total revenue) in December . This trend highlights T2S's future growth potential, potentially reflecting the deployment of additional T2S-equipped EVSE alongside increasing consumer adoption and awareness of Borne2Win CPO.
 
