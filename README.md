@@ -50,6 +50,13 @@ Activity declined between July and August 21, with revenue decreasing by 14.5% M
 
 From September to December 2021, revenue growth accelerated sharply, with an 85,3% increase in September - followed by continued but more moderate growth in the following months ; +35.5% in October, +45.9% in November and +26.3% in December. This may reflect increasing network adoption, greater awareness of the service, and the easing of pandemic-related restrictions, while the progressive moderation in monthly growth suggests a transition toward a more established level of demand.
 
+<p align="center">
+<img width="1262" height="812" alt="Screenshot 2026-10-11 at 21 17 11" src="https://github.com/user-attachments/assets/6cff383d-3410-4045-bd00-cc00b896c1c2" />
+
+  
+</p>
+
+
 ### Regional Performance Section 
 
 The 16th district consistently ranked as the network’s top revenue contributor, accounting for 12–16% of monthly network revenue throughout the period.This consistent performance suggests strong observed demand and makes the district a potential priority for future network development.
