@@ -87,8 +87,7 @@ FLEX EVSE
 
 T2S revenue surged from September onward, overtaking EF and T2 to become FLEX’s leading revenue contributor in October and reaching approximately €320K in December, representing 61% of total FLEX revenue. 
 
-Initially led by EF and then T2, FLEX’s revenue mix shifted decisively toward T2S, highlighting a potential growth opportunity that warrants further investigation. 
-This shift highlights T2S’s growth potential, potentially reflecting the deployment of additional T2S-equipped EVSE or an increasing consumer adoption and awareness of Borne2Win's CPO. 
+First appearing in the data in June, T2S rapidly gained prominence, shifting FLEX’s revenue mix away from EF and T2 and highlighting a potential growth opportunity. This trend points to T2S’s growth potential, potentially reflecting the deployment of additional T2S-equipped EVSE and increasing consumer adoption and awareness of Borne2Win’s CPO network.
 
 Further investigation into session volumes, consumption and EVSE deployment is needed to determine whether this growth stems from increased T2S usage, broader network activity or an expanded deployment base.
 
