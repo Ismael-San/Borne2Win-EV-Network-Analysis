@@ -164,6 +164,8 @@ This deterioration calls for an operational review with the Operations team to i
 **Reallocate resources from underperforming districts:** Identify the main drivers of low activity across underperforming districts (10th district) and determine whether resources should be redirected, pricing strategies adjusted or targeted commercial initiatives introduced before considering network reallocation.
 
 
+
+
 **Product Team**
 
 **Assess T2S opportunities:** Analyze T2S-equipped EVSE performance following its rapid revenue growth within FLEX, identifying the highest-performing locations and assessing opportunities to increase demand through targeted commercial and marketing initiatives.
@@ -174,6 +176,9 @@ This deterioration calls for an operational review with the Operations team to i
 
 **Investigate high energy intensity in the North-East region:** Identify drivers of high kWh per session across the region, including session duration, vehicle and charging patterns and electrical infrastructure constraints, to determine whether the observed intensity reflects customer demand or operational factors.
 
+
+
+
 **Customers/Marketing Team**
 
 **Optimize advertising campaigns:** Identify high-demand periods, locations and customer segments from charging activity data to target advertising campaigns where and when they are most likely in order to increase brand awareness and customer acquisition.
@@ -183,6 +188,10 @@ This deterioration calls for an operational review with the Operations team to i
 **Increase drivers adoption:** Analyze payment methods, mobile/web app usage and customer feedback to identify challenges to better adoption. Implement customer surveys and social-media feedback to improve the web/mobile experience. 
 
 **Increase subscriber conversion and onboarding:** Identify non-subscribers using the network and assess their session frequency and charging behavior. Use targeted email campaigns during and after charging sessions to promote Borne2Win membership, improve conversion and encourage repeat usage.
+
+
+
+
 
 **Operations Team**
 
