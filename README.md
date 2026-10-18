@@ -179,8 +179,10 @@ Prioritize an operational review of underperforming high-power connector types, 
 
 **Customers/Marketing Operations**
 
-Examine how Borne2Win subscribers use our charging points, including usage frequency, session duration and charging patterns, to identify opportunities to improve engagement and retention.
+**Optimize advertising campaigns:** Identify high-demand periods, locations and customer segments from charging activity data to target advertising campaigns where and when they are most likely in order to increase brand awareness and customer acquisition.
 
-Identify peak usage periods and align targeted advertising campaigns with periods of high demand to maximize visibility and attract new customers.
+**Augment Borne2Win's Interoperability:** Expand eMSP partnerships with additional e-Mobility Service Providers (eMSPs) to increase network interoperability by enable accessibility to new EV drivers to our charger points.
 
-Establish partnerships with additional e-Mobility Service Providers (eMSPs) to improve charging network interoperability and enable more EV drivers to access Borne2Win charging points.
+**Increase drivers adoption:** Analyze payment methods, mobile/app usage and customer feedback to identify challenges to better adoption. Implement customer surveys and social-media feedback to improve the web/mobile experience 
+
+**Increase subscriber conversion and onboarding:** Identify non-subscribers using the network and assess their session frequency and charging behavior. Use targeted email campaigns during and after charging sessions to promote Borne2Win membership, improve conversion and encourage repeat usage.
