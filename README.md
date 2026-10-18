@@ -155,17 +155,14 @@ This deterioration calls for an operational review with the Operations team to i
 
 **Financial/Sales Operations**
 
-Track operational and commercial performance beyond the study period to distinguish structural performance trends from seasonal effects, particularly the potential impact of reduced summer activity and the September return to normal business activity.
+**Prioritize high-performing districts:** Consider capitilizating on high-performing areas such as the 16th, 17th and 15th districts, by programming investments where sustained demand and revenue contribution indicate stronger potential for future network growth.
 
-**Assess demand and operational capacity before expanding infrastructure in high-performing districts.**
+**Capture growth potential in the 2nd district:** Leverage the district's strong activity per observed EVSE by evaluating whether additional charging capacity could support higher demand and generate incremental revenue.
 
-16th district: Identify key user segments, subscription status (Borne2Win subscribers or not), session frequency and charging patterns. Collaborate with Marketing to convert non-subscribers into Borne2Win members and encourage repeat usage.
+**Sustain post-pandemic demand recovery:** Leverage changes in charging activity following the easing of pandemic restrictions to distinguish temporary demand recovery from sustainable growth and incorporate these trends into future revenue and investment planning
 
-2nd district: Analyze peak-hour demand, session duration, activity per observed EVSE and invalid session rates to identify potential capacity constraints. Use these findings to prioritize new charging points or preventive maintenance.
+**Reallocate resources from underperforming districts:** Identify the main drivers of low activity across underperforming districts and determine whether resources should be redirected, pricing strategies adjusted or targeted commercial initiatives introduced before considering network reallocation.
 
-**Conduct product and pricing research for underperforming districts**
-
-Concerning underperforming districts: Analyze pricing, session duration, EVSE availability, local demand and charging behavior to identify the factors behind low activity levels. Use these findings to determine whether network reallocation or targeted commercial measures are warranted.
 
 **Product Operations**
 
@@ -178,10 +175,6 @@ Concerning underperforming districts: Analyze pricing, session duration, EVSE av
 **Evaluate EVSE performance measurement:** Work with Engineering team to obtain verified EVSE availability, utilization and downtime metrics, enabling more accurate identification of under/over-utilized charging points and supporting evidence-based capacity planning.
 
 **Investigate high energy intensity in the North-East region:** Identify drivers of high kWh per session across the region, including session duration, vehicle and charging patterns and electrical infrastructure constraints, to determine whether the observed intensity reflects customer demand or operational factors.
-
-Evaluate future activity results to decide whether future deployment should prioritize T2 capacity, high-power connectors, or a balanced mix based on demand, revenue and reliability. 
-
-Prioritize an operational review of underperforming high-power connector types, particularly CHAdeMO, to identify potential reliability issues and their impact on network activity.
 
 **Customers/Marketing Operations**
 
