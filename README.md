@@ -153,7 +153,7 @@ This deterioration calls for an operational review with the Operations team to i
 
 ## Recommandations
 
-**Financial/Sales Operations**
+**Financial Operations**
 
 **Prioritize high-performing districts:** Consider capitilizating on high-performing areas such as the 16th, 17th and 15th districts, by programming investments where sustained demand and revenue contribution indicate stronger potential for future network growth.
 
@@ -165,8 +165,6 @@ This deterioration calls for an operational review with the Operations team to i
 
 
 **Product Operations**
-
-**Preserve and leverage the strong performance of T2 connectors while assessing the role of high-power infrastructure in the network portfolio.**
 
 **Assess T2S opportunities:** Analyze T2S-equipped EVSE performance following its rapid revenue growth within FLEX, identifying the highest-performing locations and assessing opportunities to increase demand through targeted commercial and marketing initiatives.
 
