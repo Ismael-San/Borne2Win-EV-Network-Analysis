@@ -153,7 +153,7 @@ This deterioration calls for an operational review with the Operations team to i
 
 ## Recommandations
 
-**Financial Operations**
+**Financial Team**
 
 **Prioritize high-performing districts:** Consider capitilizating on high-performing areas such as the 16th, 17th and 15th districts, by programming investments where sustained demand and revenue contribution indicate stronger potential for future network growth.
 
@@ -164,7 +164,7 @@ This deterioration calls for an operational review with the Operations team to i
 **Reallocate resources from underperforming districts:** Identify the main drivers of low activity across underperforming districts and determine whether resources should be redirected, pricing strategies adjusted or targeted commercial initiatives introduced before considering network reallocation.
 
 
-**Product Operations**
+**Product Team**
 
 **Assess T2S opportunities:** Analyze T2S-equipped EVSE performance following its rapid revenue growth within FLEX, identifying the highest-performing locations and assessing opportunities to increase demand through targeted commercial and marketing initiatives.
 
@@ -174,7 +174,7 @@ This deterioration calls for an operational review with the Operations team to i
 
 **Investigate high energy intensity in the North-East region:** Identify drivers of high kWh per session across the region, including session duration, vehicle and charging patterns and electrical infrastructure constraints, to determine whether the observed intensity reflects customer demand or operational factors.
 
-**Customers/Marketing Operations**
+**Customers/Marketing Team**
 
 **Optimize advertising campaigns:** Identify high-demand periods, locations and customer segments from charging activity data to target advertising campaigns where and when they are most likely in order to increase brand awareness and customer acquisition.
 
@@ -183,3 +183,11 @@ This deterioration calls for an operational review with the Operations team to i
 **Increase drivers adoption:** Analyze payment methods, mobile/app usage and customer feedback to identify challenges to better adoption. Implement customer surveys and social-media feedback to improve the web/mobile experience 
 
 **Increase subscriber conversion and onboarding:** Identify non-subscribers using the network and assess their session frequency and charging behavior. Use targeted email campaigns during and after charging sessions to promote Borne2Win membership, improve conversion and encourage repeat usage.
+
+**Operations Team**
+
+**Identify recurring reliability issues:** Identify recurring low sessions success rates patterns across EVSEs, connectors, districts and EMSPs and coordinate root-cause analysis with Operations to distinguish equipment-related issues from customer, vehicle or payment-related factors.
+
+**Address underperforming locations:** Review operational conditions at low-activity locations and implement targeted measures where availability, reliability or charging-point performance may be limiting demand capture.
+
+**Mitigate capacity pressure in the 2nd district:** Identify the drivers of the district’s high activity intensity and determine whether charging duration, peak-hour demand or limited capacity could create operational pressure. Use these findings to anticipate capacity constraints and implement appropriate measures, such as preventive maintenance, capacity expansion or demand redistribution.
