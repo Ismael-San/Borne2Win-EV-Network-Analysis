@@ -171,9 +171,13 @@ Concerning underperforming districts: Analyze pricing, session duration, EVSE av
 
 **Preserve and leverage the strong performance of T2 connectors while assessing the role of high-power infrastructure in the network portfolio.**
 
-Assess opportunities to scale T2S-equipped EVSE following its rapid revenue growth within FLEX by identifying most utilized ones and leveraged on them with demand-increasing marketing and commercial measures (campaigns ads).
+**Assess T2S opportunities:** Analyze T2S-equipped EVSE performance following its rapid revenue growth within FLEX, identifying the highest-performing locations and assessing opportunities to increase demand through targeted commercial and marketing initiatives.
 
 **Review underperforming connectors:** Monitor ChadeMo, T3 and EF performance on BOOST chargers over time and compare their demand, revenue and reliability against other connector types to identify potential reliability issues and assess their impact on sessions, consumption and revenue. If underperformance persists, consider reducing or deprioritizing future investment in these configurations by reshaping BOOST connector mix.
+
+**Evaluate EVSE performance measurement:** Work with Engineering team to obtain verified EVSE availability, utilization and downtime metrics, enabling more accurate identification of under/over-utilized charging points and supporting evidence-based capacity planning.
+
+**Investigate high energy intensity in the North-East region:** Identify drivers of high kWh per session across the region, including session duration, vehicle and charging patterns and electrical infrastructure constraints, to determine whether the observed intensity reflects customer demand or operational factors.
 
 Evaluate future activity results to decide whether future deployment should prioritize T2 capacity, high-power connectors, or a balanced mix based on demand, revenue and reliability. 
 
