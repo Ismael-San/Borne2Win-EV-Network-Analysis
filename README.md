@@ -155,22 +155,22 @@ This deterioration calls for an operational review with the Operations team to i
 
 **Financial Team**
 
-**Prioritize high-performing districts:** Consider capitilizating on high-performing areas such as the 16th, 17th and 15th districts, by programming investments where sustained demand and revenue contribution indicate stronger potential for future network growth.
+**Prioritize high-performing districts:** Consider capitalizing on high-performing districts, such as the 16th, 17th and 15th, by prioritizing investments in areas where sustained demand and revenue contributions indicate strong potential for future network growth.
 
-**Capture growth potential in the 2nd district:** Leverage the district's strong activity per observed EVSE by evaluating whether additional charging capacity could support higher demand and generate incremental revenue.
+**Capture growth potential in the 2nd district:** Leverage the district's strong activity per observed EVSE by evaluating whether additional charging capacity could support higher demand and generate more revenue.
 
 **Sustain post-pandemic demand recovery:** Leverage changes in charging activity following the easing of pandemic restrictions to distinguish temporary demand recovery from sustainable growth and incorporate these trends into future revenue and investment planning
 
-**Reallocate resources from underperforming districts:** Identify the main drivers of low activity across underperforming districts and determine whether resources should be redirected, pricing strategies adjusted or targeted commercial initiatives introduced before considering network reallocation.
+**Reallocate resources from underperforming districts:** Identify the main drivers of low activity across underperforming districts (10th district) and determine whether resources should be redirected, pricing strategies adjusted or targeted commercial initiatives introduced before considering network reallocation.
 
 
 **Product Team**
 
 **Assess T2S opportunities:** Analyze T2S-equipped EVSE performance following its rapid revenue growth within FLEX, identifying the highest-performing locations and assessing opportunities to increase demand through targeted commercial and marketing initiatives.
 
-**Review underperforming connectors:** Monitor ChadeMo, T3 and EF performance on BOOST chargers over time and compare their demand, revenue and reliability against other connector types to identify potential reliability issues and assess their impact on sessions, consumption and revenue. If underperformance persists, consider reducing or deprioritizing future investment in these configurations by reshaping BOOST connector mix.
+**Review underperforming connectors:** Monitor ChadeMo, T3 and EF performance on BOOST chargers over time and compare their demand, revenue and reliability against T2 and Combo CS to identify potential reliability issues and assess their impact on sessions, consumption and revenue. If underperformance persists, consider reducing or deprioritizing future investment in these configurations by reshaping BOOST connector mix.
 
-**Evaluate EVSE performance measurement:** Work with Engineering team to obtain verified EVSE availability, utilization and downtime metrics, enabling more accurate identification of under/over-utilized charging points and supporting evidence-based capacity planning.
+**Evaluate EVSE performance measurement:** Work with Engineering team to obtain verified EVSE date availability, utilization and downtime metrics, enabling more accurate identification of under/over-utilized charging points and supporting evidence-based capacity planning.
 
 **Investigate high energy intensity in the North-East region:** Identify drivers of high kWh per session across the region, including session duration, vehicle and charging patterns and electrical infrastructure constraints, to determine whether the observed intensity reflects customer demand or operational factors.
 
@@ -178,9 +178,9 @@ This deterioration calls for an operational review with the Operations team to i
 
 **Optimize advertising campaigns:** Identify high-demand periods, locations and customer segments from charging activity data to target advertising campaigns where and when they are most likely in order to increase brand awareness and customer acquisition.
 
-**Augment Borne2Win's interoperability:** Expand eMSP partnerships with additional e-Mobility Service Providers (eMSPs) to increase network interoperability by enable accessibility to new EV drivers to our charger points.
+**Augment Borne2Win's interoperability:** Expand eMSP partnerships deals with additional e-Mobility Service Providers (eMSPs) to increase network interoperability by enable accessibility to new EV drivers to our charger points.
 
-**Increase drivers adoption:** Analyze payment methods, mobile/app usage and customer feedback to identify challenges to better adoption. Implement customer surveys and social-media feedback to improve the web/mobile experience 
+**Increase drivers adoption:** Analyze payment methods, mobile/web app usage and customer feedback to identify challenges to better adoption. Implement customer surveys and social-media feedback to improve the web/mobile experience. 
 
 **Increase subscriber conversion and onboarding:** Identify non-subscribers using the network and assess their session frequency and charging behavior. Use targeted email campaigns during and after charging sessions to promote Borne2Win membership, improve conversion and encourage repeat usage.
 
